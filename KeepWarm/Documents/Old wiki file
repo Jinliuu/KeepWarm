@@ -1,0 +1,39 @@
+****(I think below details can be moved to comments within cs scripts)
+
+## 1. Player Moving instructions
+
+The *Player_Move* script involves all codes related to player move and related animation, collider and event trigger code
+
+The *Player_Move* includes following functions
+
+
+* **void start()**
+
+    -This function is a basic function of a unity script, it set the initial time and animator for player character.
+
+
+* **void Update ()**
+
+    -This function is a basic function of a unity script, it update the data related to the script frame by frame
+
+* **void PlayerMove()**
+
+    -This is the mose important function in this script, it takes input from keyboard and move the player character in the game. Speed of player movement is also set in the function. It also tell the game to animate player run if needed
+
+
+* **void Jump()**
+
+    -This function allow the player character to jump while it is on a ground object and present the animation of jump. 
+
+* **void FlipPlayer()**
+
+    -This function flip the character model while the input direction is opposite compare to the current model direction.
+
+
+* **private void OnCollisionEnter2D(Collision2D col)**
+
+    -This private function tells game if the player model is on a ground or on a climable object.
+
+* **private void OnTriggerEnter2D(Collider2D other)**
+
+    -This private function tells game if the player trigger any game event

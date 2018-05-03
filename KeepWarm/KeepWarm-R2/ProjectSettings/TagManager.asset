@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - ground
+  - P1
+  - P2
+  - TestItem2
+  - Item
+  - TestItem
+  - P1HUD
+  - P2Inventory
+  - Arrowhead
+  - P1Inventory
+  - HealthBar
+  - TrapItem
+  - MiniMap
+  - menu camera
+  - Staminabar
+  - treasure
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: weather
+    uniqueID: 2630178315
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: map
+    uniqueID: 2135513731
+    locked: 0
+  - name: menu background
+    uniqueID: 459781313
+    locked: 0

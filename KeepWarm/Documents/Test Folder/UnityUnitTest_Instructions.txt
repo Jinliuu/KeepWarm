@@ -1,0 +1,17 @@
+****Unit Test Instructions***
+11/6/2017
+
+To run tests:
+
+
+1. Open the Unity Project "BubbaProject" in this folder (i.e. TestFolder).
+
+2. Open the script file found in the unity project called: "RunUnitTest.cs" in visual Studio.
+
+3. Click "Attach to Unity" button at the top of visual studio to the run the test file.
+
+4. To view tests in unity, click the "Window" button at the top of Unity.
+Then, click "Test Runner" in dropdown menu.
+
+
+-Samuel Scargall
